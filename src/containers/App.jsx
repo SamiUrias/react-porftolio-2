@@ -7,7 +7,7 @@ import Info from "../components/Info";
 import About from "../components/About";
 import Education from "../components/Education";
 import Experience from "../components/Experience";
-import Certificates from "../components/Certificates";
+// import Certificates from "../components/Certificates";
 import Skills from "../components/Skills";
 import useGetData from "../hooks/useGetData";
 
